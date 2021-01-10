@@ -1,2 +1,41 @@
-# movie-plot-sentiments
-Copy and paste the plot of a movie as a string variable in python. Clean the string for numbers, spl chars etc except for full-stops.Split the large string into single sentences. Import TextBlob and let it do its magic. Copy the resulting list of numbers(sentiments value) to a excel/csv file and create a graph.
+# Movie Plot Sentiments
+
+*The idea is to plot the emotion of the story in a graph. So that we can literally "see" the roller coaster of emotions the movie has to offer.*
+___
+
+### Procedure
+
+* A python program that uses the text-blob library to gauge the sentiments of the movie plot one sentence at a time.
+
+* We just copy the plot from wikipedia and paste the plot of as a string variable in python.
+
+* Then clean the string for numbers, special characters and citation numbers that are usually present in a wikipedia content.
+
+* Split the large string into single sentences using fullstops as the divider.
+
+* Import TextBlob and input the whole plot pragraph line by line in a FOR loop and let TextBlob do its magic. Copy the resulting list of numbers(sentiments value) to an excel/csv file and plot the graph.
+___
+
+### Some Examples
+
+```X axis: Nth sentence in the plot```
+
+```Y axis: Polarity of the sentence (1.0=positive, 0.0=neutral, -1.0=negative)```
+
+* Avatar (English)
+![](https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/avatar.JPG)
+
+* Drishyam (Malayalam)
+![](https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/drishyam.JPG)
+
+* Joker (English)
+![](https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/joker.JPG)
+
+* Lucifer (Malayalam)
+![](https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/lucifer_malayalam.JPG)
+
+* Manichitratazhu (Malayalam)
+![](https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/manichitrathazhu.JPG)
+
+* Titanic (English)
+![](https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/titanic.JPG)
