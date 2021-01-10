@@ -23,25 +23,19 @@ ___
 ```Y axis: Polarity of the sentence (1.0=positive, 0.0=neutral, -1.0=negative)```
 
 * [Avatar](https://en.wikipedia.org/wiki/Avatar_(2009_film)) (English)
-
 <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/avatar.JPG">
 
 * [Drishyam](https://en.wikipedia.org/wiki/Drishyam) (Malayalam)
-
 <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/drishyam.JPG">
 
 * [Joker](https://en.wikipedia.org/wiki/Joker_(2019_film)) (English)
-
 <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/joker.JPG">
 
 * [Lucifer](https://en.wikipedia.org/wiki/Lucifer_(film)) (Malayalam)
-
 <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/lucifer_malayalam.JPG">
 
 * [Manichitratazhu](https://en.wikipedia.org/wiki/Manichitrathazhu) (Malayalam)
-
 <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/manichitrathazhu.JPG">
 
 * [Titanic](https://en.wikipedia.org/wiki/Titanic_(1997_film)) (English)
-
 <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/titanic.JPG">
