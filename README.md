@@ -24,18 +24,23 @@ ___
 
 * [Avatar](https://en.wikipedia.org/wiki/Avatar_(2009_film)) (English)
 <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/avatar.JPG">
-
+<br>
+<br>
 * [Drishyam](https://en.wikipedia.org/wiki/Drishyam) (Malayalam)
 <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/drishyam.JPG">
-
+<br>
+<br>
 * [Joker](https://en.wikipedia.org/wiki/Joker_(2019_film)) (English)
 <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/joker.JPG">
-
+<br>
+<br>
 * [Lucifer](https://en.wikipedia.org/wiki/Lucifer_(film)) (Malayalam)
 <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/lucifer_malayalam.JPG">
-
+<br>
+<br>
 * [Manichitratazhu](https://en.wikipedia.org/wiki/Manichitrathazhu) (Malayalam)
 <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/manichitrathazhu.JPG">
-
+<br>
+<br>
 * [Titanic](https://en.wikipedia.org/wiki/Titanic_(1997_film)) (English)
 <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/titanic.JPG">
