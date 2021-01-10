@@ -24,7 +24,7 @@ ___
 
 * [Avatar](https://en.wikipedia.org/wiki/Avatar_(2009_film)) (English)
 
-<img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg"> <img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/avatar.JPG">
+<img src="https://raw.githubusercontent.com/sarathsajan/movie-plot-sentiments/master/avatar.JPG">
 
 * [Drishyam](https://en.wikipedia.org/wiki/Drishyam) (Malayalam)
 
